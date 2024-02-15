@@ -23873,3 +23873,8 @@ pre {
   margin-top: 10px;
   margin-left: 10px;
 }
+@media (max-width:700px){
+  .form{
+    width: 150px;
+  }
+}
